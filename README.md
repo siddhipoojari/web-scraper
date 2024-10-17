@@ -1,7 +1,7 @@
 # **Data Scraping Automation – Internship Project**
 
 ## **Overview**
-This project was developed as part of my internship with the **Psychedelic Association of Canada**. The goal was to automate the extraction of data from platforms such as **Keela** and **Mailchimp** using **Selenium** and **BeautifulSoup**, and utilize this data to develop email marketing strategies. The script efficiently handles large datasets and streamlines workflow processes.
+This project was developed as part of my internship with the **Psychedelic Association of Canada**. The goal was to automate the extraction of data from platforms such as **Keela** and **Mailchimp** using **Selenium** and **BeautifulSoup**, and utilize this data to develop email marketing strategies. The script efficiently handles large datasets and streamlines workflow processes. Company specific information has been removed for confidentiality purposes.
 
 ## **Key Features:**
 - Configurable to work with different data structures and platforms.
